@@ -2,7 +2,7 @@ package cash_register;
 import java.util.Scanner;
 
 public class CashRegister {
-
+    
     public static void start(){
         Calculator calculator = new Calculator();
 
